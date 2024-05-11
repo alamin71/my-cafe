@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/HqM5Fky/flat-lay-desk-dark-concept-with-copy-space.jpg",
+        "title": "The Secret Garden",
+        "author": "Frances Hodgson Burnett",
+        "author_img": "https://example.com/author1.jpg",
+        "post_date": "2024-05-10",
+        "reading_time": "30 mins",
+        "hashtag": ["fiction", "classics", "gardens"]
+      },
+      {
+        "id": "2",
+        "cover": "https://example.com/cover2.jpg",
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "author": "Douglas Adams",
+        "author_img": "https://example.com/author2.jpg",
+        "post_date": "2024-05-09",
+        "reading_time": "45 mins",
+        "hashtag": ["science fiction", "comedy", "space"]
+      },
+      {
+        "id": "3",
+        "cover": "https://example.com/cover3.jpg",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "author_img": "https://example.com/author3.jpg",
+        "post_date": "2024-05-08",
+        "reading_time": "40 mins",
+        "hashtag": ["classic", "romance", "1920s"]
+      },
+      {
+        "id": "4",
+        "cover": "https://example.com/cover4.jpg",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "author_img": "https://example.com/author4.jpg",
+        "post_date": "2024-05-07",
+        "reading_time": "35 mins",
+        "hashtag": ["classics", "racism", "southern"]
+      },
+      {
+        "id": "5",
+        "cover": "https://example.com/cover5.jpg",
+        "title": "1984",
+        "author": "George Orwell",
+        "author_img": "https://example.com/author5.jpg",
+        "post_date": "2024-05-06",
+        "reading_time": "50 mins",
+        "hashtag": ["dystopian", "surveillance", "political"]
+      }
+                              
+]
